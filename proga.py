@@ -3,3 +3,5 @@ for i in range(10):
     print(i)
     if d == 5:
         print('+')
+    if d == 1:
+        print('ess')
